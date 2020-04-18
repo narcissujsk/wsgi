@@ -1,3 +1,5 @@
 flask>=1.1.2
 paste>=3.4.0
 PasteDeploy>=2.1.0
+webob>=1.8.6
+routes>=2.4.1
